@@ -250,4 +250,6 @@ analyze('The long lines and poor customer service really turned me off.')
 
     0.09493205
 
+### Reference
+https://docs.microsoft.com/en-us/learn/modules/analyze-review-sentiment-with-keras/
 
